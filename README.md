@@ -1,5 +1,4 @@
-# Sorted by Year
-
+```
 - Metropolis (1927)
 - Modern Times (1936)
 - Paths of Glory (1957)
@@ -112,3 +111,4 @@
 - The Whale (2022)
 - Everything Everywhere All at Once (2022)
 - Perfect Days (2023)
+```
