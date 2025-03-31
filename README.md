@@ -11,6 +11,7 @@
 - One Flew Over The Cuckoos Nest (1976)
 - Annie Hall (1977)
 - Being There (1979)
+- My Dinner with Andre (1981)
 - Death of Yazdgerd (1982)
 - Hannah And Her Sister (1986)
 - Platoon (1986)
